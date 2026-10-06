@@ -16,7 +16,7 @@ IT and cybersecurity professional with experience across SOC monitoring, identit
 ## Projects
 | Project | Focus | Status |
 | --- | --- | --- |
-| Vulnerability Management Lab | Nessus, CVSS, CISA KEV, Metasploit, remediation | In progress |
+| [Vulnerability Management Lab](https://github.com/Brown4wa/Vulnerability-Management-Lab) | Nessus, CVSS, CISA KEV, Metasploit, remediation | In progress |
 | Splunk SOC Detection Lab | Splunk, Sysmon, MITRE ATT&CK, SPL detections | Planned |
 | Sentinel Identity Threat Detection | Microsoft Sentinel, Entra ID, KQL | Planned |
 
